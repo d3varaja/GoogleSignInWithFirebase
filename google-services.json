@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090437447917",
+    "project_id": "d3varaja-project01",
+    "storage_bucket": "d3varaja-project01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090437447917:android:d3d39073b10a8fc41b0ce4",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090437447917-m2kvlr843q7nadk20h2dtpn18hmb951g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesignin",
+            "certificate_hash": "ba38600fa62c65782621868ab3a6ae5d7282bb59"
+          }
+        },
+        {
+          "client_id": "1090437447917-m2f11vjod4pdnkvp8tm0jgu1hqdqp0v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkpF9mho3d8A9iYRQninPFFYaWeLfcJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090437447917-m2f11vjod4pdnkvp8tm0jgu1hqdqp0v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
