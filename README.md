@@ -6,17 +6,17 @@ This Android app demonstrates how to implement **Google Sign-In** authentication
 
 ## Features
 
-- Google Sign-In integration using Firebase Authentication
-- User-friendly sign-in and sign-out flows
-- Display of signed-in user's name on the main screen
-- Secure token-based authentication with Firebase
-- Clean and simple UI using ConstraintLayout and Material design principles
+- Google Sign-In integration using Firebase Authentication  
+- User-friendly sign-in and sign-out flows  
+- Display of signed-in user's name on the main screen  
+- Secure token-based authentication with Firebase  
+- Clean and simple UI using ConstraintLayout and Material design principles  
 
 ---
 
 ## Screenshots
 
-*here*
+*Add your screenshots here*
 
 ---
 
@@ -24,15 +24,10 @@ This Android app demonstrates how to implement **Google Sign-In** authentication
 
 ### Prerequisites
 
-- Android Studio (recommended latest stable version)
-- Firebase account
-- Google account for sign-in testing
-- SHA-1 fingerprint of your debug/release keystore
+- Android Studio (recommended latest stable version)  
+- Firebase account  
+- Google account for sign-in testing  
+- SHA-1 fingerprint of your debug/release keystore  
 
-### Setup Instructions
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  [![Android Studio](https://img.shields.io/badge/android--studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)  [![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
