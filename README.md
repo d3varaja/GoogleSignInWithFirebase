@@ -15,7 +15,7 @@ This Android app demonstrates how to implement **Google Sign-In** authentication
 ---
 
 ## Screenshots
-<p align="center"> <img src="screenshots/firebase_records.png" alt="Firebase Records" width="600" height="300"/> </p> <p align="center"> <img src="screenshots/homepage.png" alt="Homepage" width="200" height="360"/> <img src="screenshots/loginpage.png" alt="Login Page" width="200" height="360"/> <img src="screenshots/logoutpage.png" alt="Logout Page" width="200" height="360"/> </p>
+<p align="center"> <img src="screenshots/firebase_records.png" alt="Firebase Records" width="700" height="290"/> </p> <p align="center"> <img src="screenshots/homepage.png" alt="Homepage" width="200" height="360"/> <img src="screenshots/loginpage.png" alt="Login Page" width="200" height="360"/> <img src="screenshots/logoutpage.png" alt="Logout Page" width="200" height="360"/> </p>
 
 
 
